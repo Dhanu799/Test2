@@ -1,0 +1,9 @@
+installutil C:\Program Files (x86)\innOve Technologies\eCOLE8SService\eCOLE8SService.exe 
+
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>
+
+C:\Program Files (x86)\innOve Technologies\eCOLE8SService\eCOLE8SService.exe 
+
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe
