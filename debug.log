@@ -1,0 +1,6 @@
+[0102/232158.945:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0116/011452.623:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0122/075338.745:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0124/131624.358:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0125/145158.532:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Apoorva\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\454ab08d-b797-4896-a9a5-bd7172367894: The system cannot find the path specified. (0x3)
+[0127/231909.096:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
