@@ -1,0 +1,2 @@
+Is there a way to lock individual files or directories on fork when using git?
+No chance, if file is not mergeable and you need to lock it, use a centralized solution instead of GIT, i.e. SVN or ClearCase.
